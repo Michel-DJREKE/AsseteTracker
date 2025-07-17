@@ -94,24 +94,24 @@ export const Home = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-4">
                   <img 
-                    src="/public/images/espace-de-travail-a-ecran-vide-avec-ordinateur-portable-sur-la-table-la-nuit-espace-de-copie.jpg"
+                    src="/images/espace-de-travail-a-ecran-vide-avec-ordinateur-portable-sur-la-table-la-nuit-espace-de-copie.jpg"
                     alt="Ordinateur portable moderne"
                     className="w-full h-48 object-cover rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
                   <img 
-                    src="/public/images/femmepc.jpg"
+                    src="/images/femmepc.jpg"
                     alt="Femme travaillant sur ordinateur"
                     className="w-full h-32 object-cover rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
                 </div>
                 <div className="space-y-4 mt-8">
                   <img 
-                    src="/public/images/1.jpg"
+                    src="/images/1.jpg"
                     alt="Espace de travail moderne"
                     className="w-full h-32 object-cover rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
                   <img 
-                    src="/public/images/espace_travail_bureau.jpg"
+                    src="/images/espace_travail_bureau.jpg"
                     alt="Bureau moderne avec équipements"
                     className="w-full h-48 object-cover rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
                   />
